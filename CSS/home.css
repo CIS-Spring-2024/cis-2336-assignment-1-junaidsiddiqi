@@ -106,7 +106,7 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain; 
-    animation: slide 40s infinite;
+    animation: slide 60s infinite;
     overflow: hidden;
     padding-bottom:65px;
     transition: transform 0.5s ease-in-out;
