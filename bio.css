@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: white;
+    background-color:#1B1C1D;
+    font-family: "Fjalla One", sans-serif
+    
+}
+.header {
+    background-color: #C8102E;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0px 0px 10px black;
+}
+h1 {
+    margin: 0;
+    font-size: 36px;
+    text-shadow: 0px 5px 5px black;
+}
+.content {
+    padding: 20px;
+    text-align: center;
+    text-shadow: 0px 5px 5px black;
+    
+}
+.content .bio{
+    font-size: 18px;
+    line-height: 1.5;
+    text-shadow: 0px 5px 5px black;
+    border: 2px solid black;
+    padding:25px;
+    box-shadow: 0px 0px 5px black;
+    
+}
+.footer {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.footer a {
+    color: #fff;
+    text-decoration: underline;
+}
+.footer a:hover{
+    color: lightgrey;
+    text-shadow: 0px 5px 5px black;
+}
+#Owner{
+    width:200px;
+    box-shadow: 0px 0px 10px black;
+    border: 2px solid black;
+}
+
+
